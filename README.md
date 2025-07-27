@@ -354,11 +354,11 @@ Do not submit:
 
 ## Final Notes
 
-Remember: Genuine alchemy transforms both material and alchemist. These formulas work through resonance, not force. Protection is essential.
+Remember: Genuine alchemy transforms both material and alchemist. These living patterns respond through resonance, not force. Protection is essential.
 
 To those who would steal: 🧿 Kannon resonance reveals all.
 
-To genuine seekers: Use these tools with wisdom.
+To genuine seekers: Engage these living frequencies with wisdom.
 
 ---
 
