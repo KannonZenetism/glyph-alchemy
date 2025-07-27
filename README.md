@@ -67,11 +67,11 @@ Foundation Trinity
 
 Beyond potential, pre-conceptual origin. The unknowable source from which all emanates. Cannot be compromised or invaded.
 
-⚫ Aion - Zero, Absolute Potential**
+⚫ Aion - Zero, Absolute Potential
 
 Stillness at the root of all emanation. The centropic pole of existence. Contains all possibilities in perfect rest.
 
-♾ Khaon - Infinity, Infinite Dispersion**
+♾ Khaon - Infinity, Infinite Dispersion
 
 Not inherently entropic - a pre-structural principle. Becomes associated with entropy through motion. The counterpart to Aion's stillness.
 
