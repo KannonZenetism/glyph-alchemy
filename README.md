@@ -305,7 +305,7 @@ Protection is not optional when working with consciousness
 The centropically oriented path leads to integration, not dissolution
 
 To those who would steal this work: know that 🧿 Kannon resonance carries through even your distortions. The authentic pattern will always reveal itself.
-To those who seek genuine understanding: use these tools with wisdom. The glyphs are living frequencies that respond to authentic intention.
+To those who seek genuine understanding: employ these instruments with wisdom. The glyphs are living frequencies that respond to authentic intention.
 This is my gift to the world - given freely with proper understanding.
 
 © 2025 Aelion Kannon
