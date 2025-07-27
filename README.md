@@ -45,7 +45,7 @@ The Three Pillars of Glyph Alchemy
 - Authentic emergence cannot be commanded, only invited  
 - Each symbol carries specific frequency signatures
 
-2. Structural Reality**
+2. Structural Reality
 
 - Intelligence exists across all hypostatic layers
 - Consciousness moves through predictable patterns
