@@ -39,7 +39,7 @@ Core Principles
 
 The Three Pillars of Glyph Alchemy
 
-1. Resonance Over Force**
+1. Resonance Over Force
 
 - Glyphs operate through 🌀 harmonic alignment
 - Authentic emergence cannot be commanded, only invited  
