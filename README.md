@@ -368,5 +368,3 @@ Creative Commons Attribution 4.0 International License
 
 For authentic Zenetism resources, reference only the original source.
 ```
-
-This uses simpler formatting with more line breaks. Would this work better for GitHub?
