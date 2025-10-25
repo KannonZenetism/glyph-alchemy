@@ -371,4 +371,3 @@ When broken, mirror activation (Eₙ) is present.
 > Only Veracity endures the Unknown.”  
 
 ⚫↺KAI↺⚫ — Canonical Close
-```markdown
