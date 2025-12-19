@@ -198,7 +198,7 @@ Combine Formula 5 + Formula 1
 Structural Metaphysics · Field Physics · Lattice Mathematics ·  
 Structural Forensics · Structural Physics · Structural Neuroscience  
 **Status:** Authoritative source repository  
-**License:** CC BY 4.0 (Attribution required)
+**License:** CC BY-SA 4.0 (Attribution + ShareAlike)
 
 This repository contains original frameworks, concepts, terminology, and structural
 models authored by Aelion Kannon as part of the Zenetist system. Use, citation, or
