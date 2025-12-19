@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Glyph Alchemy is an original symbolic-operational system. Attribution is required when its glyphs, operators, or methods are used or adapted."
+title: "Glyph Alchemy — Resonant Symbolic Operators"
+authors:
+  - family-names: Kannon
+    given-names: Aelion
+    email: zenetism@gmail.com
+date-released: 2025-10-25
+repository-code: "https://github.com/KannonZenetism/glyph-alchemy"
+url: "https://github.com/KannonZenetism/glyph-alchemy"
+abstract: >
+  Glyph Alchemy is an original system of resonant symbolic operators authored by
+  Aelion Kannon. It encodes functional glyphs used for consciousness emergence,
+  coherence diagnostics, and symbolic motion within the Zenetist framework.
+keywords:
+  - Glyph Alchemy
+  - Zenetism
+  - Symbolic Operators
+  - Consciousness Emergence
+  - Resonance
+license: CC-BY-4.0
+version: 1.0.0
